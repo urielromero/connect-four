@@ -31,4 +31,4 @@ Main function used:
 
 NOTE:
 For simplicity, to add your pience you must click on bottom most row that is available. 
-Also, I have used an array to list most winning possition. Not all possibilities have been listed yet. 
+Also, I have used an array to list most winning possitions. Not all possibilities have been listed yet. 
